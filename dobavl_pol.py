@@ -10,7 +10,7 @@ def add_name(d):
 
 def add_number(d):
     from tabulate import tabulate1
-    print = ["Фамилия", "Имя", "Номер телефона", "Опичание"]
+    print = ["Фамилия", "Имя", "Номер телефона", "Опиcание"]
 
 def add_data(d):
     with open('telefon_book', 'a') as file:
